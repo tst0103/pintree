@@ -7,16 +7,16 @@
       {
         "type": "link",
         "addDate": 1718526687700,
-        "title": "积墨AI",
-        "icon": "https://logo.clearbit.com/jimo.studio",
-        "url": "https://jimo.studio/"
+        "title": "Google",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "https://www.google.com/"
       },
       {
         "type": "link",
         "addDate": 1718526707006,
-        "title": "扣子",
-        "icon": "https://logo.clearbit.com/www.coze.cn",
-        "url": "https://www.coze.cn"
+        "title": "X",
+        "icon": "https://logo.clearbit.com/x.com",
+        "url": "https://x.com/"
       },
       {
         "type": "link",
@@ -42,47 +42,47 @@
       {
         "type": "folder",
         "addDate": 1718526865665,
-        "title": "AI图像工具",
+        "title": "Design",
         "children": [
           {
             "type": "folder",
             "addDate": 1718526865668,
-            "title": "常用AI图像工具",
+            "title": "Design Company",
             "children": [
               {
                 "type": "link",
                 "addDate": 1717203935000,
-                "title": "稿定AI",
-                "icon": "https://logo.clearbit.com/www.gaoding.com",
-                "url": "https://www.gaoding.com"
+                "title": "J Ying iconmoon",
+                "icon": "https://logo.clearbit.com/iconmoon.com",
+                "url": "http://iconmoon.com/"
               },
               {
                 "type": "link",
                 "addDate": 1717203935000,
-                "title": "奇域AI",
-                "icon": "https://logo.clearbit.com/www.qiyuai.net",
-                "url": "https://www.qiyuai.net"
+                "title": "The Great Discontent (TGD)",
+                "icon": "https://logo.clearbit.com/thegreatdiscontent.com",
+                "url": "http://thegreatdiscontent.com/"
               },
               {
                 "type": "link",
                 "addDate": 1717203935000,
-                "title": "通义万相",
-                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-                "url": "https://tongyi.aliyun.com"
+                "title": "Silvin Tysons Freelance Creative Director",
+                "icon": "https://logo.clearbit.com/www.sylvaintheyssens.com",
+                "url": "https://www.sylvaintheyssens.com/"
               },
               {
                 "type": "link",
                 "addDate": 1717203935000,
-                "title": "SIX PEN Art",
-                "icon": "https://logo.clearbit.com/6pen.art",
-                "url": "https://6pen.art"
+                "title": "ZUI",
+                "icon": "https://logo.clearbit.com/www.zui.com",
+                "url": "https://www.zui.com/"
               },
               {
                 "type": "link",
                 "addDate": 1717203935000,
-                "title": "PIC COPILOT",
-                "icon": "https://logo.clearbit.com/https://www.piccopilot.com",
-                "url": "https://www.piccopilot.com"
+                "title": "Dtail Studio",
+                "icon": "https://logo.clearbit.com/www.dtailstudio.com",
+                "url": "https://www.dtailstudio.com/"
               }
             ]
           },
