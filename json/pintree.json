@@ -7,62 +7,295 @@
       {
         "type": "link",
         "addDate": 1718526687700,
-        "title": "JIMO AI",
-        "icon": "https://logo.clearbit.com/jimo.studio",
-        "url": "https://jimo.studio/"
+        "title": "Google",
+        "icon": "https://logo.clearbit.com/www.google.com",
+        "url": "https://www.google.com/"
       },
       {
         "type": "link",
         "addDate": 1718526707006,
-        "title": "小火堆实验室",
-        "icon": "https://logo.clearbit.com/xtool.club",
-        "url": "https://xtool.club/"
+        "title": "X",
+        "icon": "https://logo.clearbit.com/x.com",
+        "url": "https://x.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526755466,
+        "title": "YouTube",
+        "icon": "https://logo.clearbit.com/www.youtube.com",
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526778937,
+        "title": "instagram",
+        "icon": "https://logo.clearbit.com/www.instagram.com",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1718526802202,
+        "title": "Facebook",
+        "icon": "https://logo.clearbit.com/www.facebook.com",
+        "url": "https://www.facebook.com/"
       },
       {
         "type": "folder",
         "addDate": 1718526865665,
-        "title": "AI图像工具",
+        "title": "Design",
         "children": [
           {
             "type": "folder",
             "addDate": 1718526865668,
-            "title": "常用AI图像工具",
+            "title": "Design Company",
             "children": [
               {
                 "type": "link",
                 "addDate": 1717203935000,
-                "title": "稿定AI",
-                "icon": "https://logo.clearbit.com/www.gaoding.com",
-                "url": "https://www.gaoding.com/"
+                "title": "J Ying iconmoon",
+                "icon": "https://logo.clearbit.com/iconmoon.com",
+                "url": "http://iconmoon.com/"
               },
               {
                 "type": "link",
                 "addDate": 1717203935000,
-                "title": "奇域AI",
-                "icon": "https://logo.clearbit.com/www.qiyuai.net",
-                "url": "https://www.qiyuai.net/"
+                "title": "The Great Discontent (TGD)",
+                "icon": "https://logo.clearbit.com/thegreatdiscontent.com",
+                "url": "http://thegreatdiscontent.com/"
               },
               {
                 "type": "link",
                 "addDate": 1717203935000,
-                "title": "通义万相",
-                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-                "url": "https://tongyi.aliyun.com/wanxiang/"
+                "title": "Silvin Tysons Freelance Creative Director",
+                "icon": "https://logo.clearbit.com/www.sylvaintheyssens.com",
+                "url": "https://www.sylvaintheyssens.com/"
               },
               {
                 "type": "link",
                 "addDate": 1717203935000,
-                "title": "即梦Dreamina",
-                "icon": "https://logo.clearbit.com/jimeng.jianying.com",
-                "url": "https://jimeng.jianying.com/"
+                "title": "ZUI",
+                "icon": "https://logo.clearbit.com/www.zui.com",
+                "url": "https://www.zui.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Dtail Studio",
+                "icon": "https://logo.clearbit.com/www.dtailstudio.com",
+                "url": "https://www.dtailstudio.com/"
               }
             ]
           },
           {
             "type": "folder",
             "addDate": 1718526865686,
-            "title": "AI图片插画生成",
+            "title": "Fonts",
             "children": [
+              {
+                "type": "folder",
+                "addDate": 1718526865690,
+                "title": "Effect Font",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1717203935000,
+                    "title": "tyxsspa/AnyText",
+                    "icon": "https://logo.clearbit.com/github.com",
+                    "url": "https://github.com/tyxsspa/AnyText"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1717203935000,
+                    "title": "AnyText AI: FREE Revolutionize Your Images with AI-Powered Text Editing",
+                    "icon": "https://logo.clearbit.com/anytext.pics",
+                    "url": "https://anytext.pics/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1718526865690,
+                "title": "Font Effect",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1717203935000,
+                    "title": "Calligrapher.ai: Realistic computer-generated handwriting",
+                    "icon": "https://logo.clearbit.com/www.calligrapher.ai",
+                    "url": "https://www.calligrapher.ai/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1717203935000,
+                    "title": "VAU Fonts",
+                    "icon": "https://logo.clearbit.com/vaufonts.com",
+                    "url": "https://vaufonts.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1717203935000,
+                    "title": "llama font - say it in llama",
+                    "icon": "https://logo.clearbit.com/llamafont.com",
+                    "url": "https://llamafont.com/"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Fonts Knowledge - Google Fonts",
+                "icon": "https://logo.clearbit.com/fonts.google.com",
+                "url": "https://fonts.google.com/knowledge"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Programming Fonts - Test Drive",
+                "icon": "https://logo.clearbit.com/www.programmingfonts.org",
+                "url": "https://www.programmingfonts.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "1001 Fonts ❤ Free Fonts Baby!",
+                "icon": "https://logo.clearbit.com/www.1001fonts.com",
+                "url": "https://www.1001fonts.com/free-for-commercial-use-fonts.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Font Meme: Fonts & Typography Resource",
+                "icon": "https://logo.clearbit.com/fontmeme.com",
+                "url": "https://fontmeme.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "WhatTheFont Font Finder - Identify Fonts by Image",
+                "icon": "https://logo.clearbit.com/www.myfonts.com",
+                "url": "https://www.myfonts.com/pages/whatthefont"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "YuzuMarker.FontDetection - a Hugging Face Space by gyrojeff",
+                "icon": "https://logo.clearbit.com/huggingface.co",
+                "url": "https://huggingface.co/spaces/gyrojeff/YuzuMarker.FontDetection"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Fontjoy - Generate font pairings in one click",
+                "icon": "https://logo.clearbit.com/fontjoy.com",
+                "url": "https://fontjoy.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Wordmark - Helps you choose fonts!",
+                "icon": "https://logo.clearbit.com/wordmark.it",
+                "url": "https://wordmark.it/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Google Fonts",
+                "icon": "https://logo.clearbit.com/fonts.google.com",
+                "url": "https://fonts.google.com/?category=Monospace&noto.script=Hans"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher",
+                "icon": "https://logo.clearbit.com/www.nerdfonts.com",
+                "url": "https://www.nerdfonts.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Font Generator - Copy & Paste (40+ 𝐹𝒶𝓃𝒸𝓎 𝐹𝑜𝓃𝓉𝓈)",
+                "icon": "https://logo.clearbit.com/fontsgen.com",
+                "url": "https://fontsgen.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Cufon Fonts: Download High Quality Free Fonts for Desktop and WebFonts",
+                "icon": "https://logo.clearbit.com/www.cufonfonts.com",
+                "url": "https://www.cufonfonts.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Download Fonts,Fonts Download,Free Fonts Download,Download Free Fonts,Find Fonts|Fontke.com",
+                "icon": "https://logo.clearbit.com/eng.fontke.com",
+                "url": "https://eng.fontke.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Fonts.com | Find, Buy & Download Best Fonts",
+                "icon": "https://logo.clearbit.com/www.fonts.com",
+                "url": "https://www.fonts.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "What’s Trending in Type · Typewolf",
+                "icon": "https://logo.clearbit.com/www.typewolf.com",
+                "url": "https://www.typewolf.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "justfont",
+                "icon": "https://logo.clearbit.com/justfont.com",
+                "url": "https://justfont.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Fonts In Use – Type at work in the real world.",
+                "icon": "https://logo.clearbit.com/fontsinuse.com",
+                "url": "https://fontsinuse.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Font Diner - The Best Retro Fonts, Font Sets & Free Fonts",
+                "icon": "https://logo.clearbit.com/fontdiner.com",
+                "url": "https://fontdiner.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Releases · subframe7536/Maple-font",
+                "icon": "https://logo.clearbit.com/github.com",
+                "url": "https://github.com/subframe7536/Maple-font"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "FontSpace: We love FREE fonts",
+                "icon": "https://logo.clearbit.com/www.fontspace.com",
+                "url": "https://www.fontspace.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "Web fonts catalog | FontsHub.pro",
+                "icon": "https://logo.clearbit.com/fontshub.pro",
+                "url": "https://fontshub.pro/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717203935000,
+                "title": "1001 Free Fonts | Download Fonts",
+                "icon": "https://logo.clearbit.com/www.1001freefonts.com",
+                "url": "https://www.1001freefonts.com/"
+              }
+            ]
+          },
           {
             "type": "folder",
             "addDate": 1718526865694,
