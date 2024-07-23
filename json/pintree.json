@@ -2,42 +2,21 @@
   {
     "type": "folder",
     "addDate": 1718526477999,
-    "title": "Bookmarks Bar",
+    "title": "分类",
     "children": [
       {
         "type": "link",
         "addDate": 1718526687700,
-        "title": "Google",
-        "icon": "https://logo.clearbit.com/www.google.com",
-        "url": "https://www.google.com/"
+        "title": "积墨AI",
+        "icon": "https://logo.clearbit.com/jimo.studio",
+        "url": "https://jimo.studio/"
       },
       {
         "type": "link",
         "addDate": 1718526707006,
-        "title": "X",
-        "icon": "https://logo.clearbit.com/x.com",
-        "url": "https://x.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718526755466,
-        "title": "YouTube",
-        "icon": "https://logo.clearbit.com/www.youtube.com",
-        "url": "https://www.youtube.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718526778937,
-        "title": "instagram",
-        "icon": "https://logo.clearbit.com/www.instagram.com",
-        "url": "https://www.instagram.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718526802202,
-        "title": "Facebook",
-        "icon": "https://logo.clearbit.com/www.facebook.com",
-        "url": "https://www.facebook.com/"
+        "title": "小火堆实验室",
+        "icon": "https://logo.clearbit.com/xtool.club",
+        "url": "https://xtool.club/"
       },
       {
         "type": "folder",
@@ -55,34 +34,6 @@
                 "title": "J Ying iconmoon",
                 "icon": "https://logo.clearbit.com/iconmoon.com",
                 "url": "http://iconmoon.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1717203935000,
-                "title": "The Great Discontent (TGD)",
-                "icon": "https://logo.clearbit.com/thegreatdiscontent.com",
-                "url": "http://thegreatdiscontent.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1717203935000,
-                "title": "Silvin Tysons Freelance Creative Director",
-                "icon": "https://logo.clearbit.com/www.sylvaintheyssens.com",
-                "url": "https://www.sylvaintheyssens.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1717203935000,
-                "title": "ZUI",
-                "icon": "https://logo.clearbit.com/www.zui.com",
-                "url": "https://www.zui.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1717203935000,
-                "title": "Dtail Studio",
-                "icon": "https://logo.clearbit.com/www.dtailstudio.com",
-                "url": "https://www.dtailstudio.com/"
               }
             ]
           },
@@ -91,55 +42,6 @@
             "addDate": 1718526865686,
             "title": "Fonts",
             "children": [
-              {
-                "type": "folder",
-                "addDate": 1718526865690,
-                "title": "Effect Font",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1717203935000,
-                    "title": "tyxsspa/AnyText",
-                    "icon": "https://logo.clearbit.com/github.com",
-                    "url": "https://github.com/tyxsspa/AnyText"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1717203935000,
-                    "title": "AnyText AI: FREE Revolutionize Your Images with AI-Powered Text Editing",
-                    "icon": "https://logo.clearbit.com/anytext.pics",
-                    "url": "https://anytext.pics/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1718526865690,
-                "title": "Font Effect",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1717203935000,
-                    "title": "Calligrapher.ai: Realistic computer-generated handwriting",
-                    "icon": "https://logo.clearbit.com/www.calligrapher.ai",
-                    "url": "https://www.calligrapher.ai/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1717203935000,
-                    "title": "VAU Fonts",
-                    "icon": "https://logo.clearbit.com/vaufonts.com",
-                    "url": "https://vaufonts.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1717203935000,
-                    "title": "llama font - say it in llama",
-                    "icon": "https://logo.clearbit.com/llamafont.com",
-                    "url": "https://llamafont.com/"
-                  }
-                ]
-              },
               {
                 "type": "link",
                 "addDate": 1717203935000,
